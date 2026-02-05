@@ -72,37 +72,37 @@ This module covers all **New Jersey-specific real estate laws** required for the
 
 ## **📚 Module Parts**
 
-### [Part 1: New Jersey Real Estate Commission Rules](/nj-real-estate-exam-prep.github.io/module5/part1-njrec-rules/)
+### [Part 1: New Jersey Real Estate Commission Rules](/NJ-Real-Estate-Exam-Prep.github.io/module5/part1-njrec-rules/)
 - N.J.A.C. 11:5 complete overview
 - License categories and requirements
 - Continuing education requirements
 - Commission disciplinary authority
 
-### [Part 2: New Jersey Agency Law & Disclosures](/nj-real-estate-exam-prep.github.io/module5/part2-nj-agency/)
+### [Part 2: New Jersey Agency Law & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module5/part2-nj-agency/)
 - NJ Agency relationships
 - Mandatory disclosure timing
 - Consumer Information Statement walkthrough
 - NJ-specific agency case law
 
-### [Part 3: NJ Contracts & Forms](/nj-real-estate-exam-prep.github.io/module5/part3-nj-contracts/)
+### [Part 3: NJ Contracts & Forms](/NJ-Real-Estate-Exam-Prep.github.io/module5/part3-nj-contracts/)
 - Standard NJ real estate contract
 - Property condition disclosure statement
 - NJ-specific addenda and riders
 - Attorney review period in NJ
 
-### [Part 4: NJ Land Use & Environmental Law](/nj-real-estate-exam-prep.github.io/module5/part4-nj-land-use/)
+### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module5/part4-nj-land-use/)
 - Municipal Land Use Law (MLUL)
 - Zoning board procedures
 - NJ environmental regulations (CAFRA, Wetlands)
 - Pinelands Protection Act
 
-### [Part 5: NJ Property Tax & Assessment](/nj-real-estate-exam-prep.github.io/module5/part5-nj-tax/)
+### [Part 5: NJ Property Tax & Assessment](/NJ-Real-Estate-Exam-Prep.github.io/module5/part5-nj-tax/)
 - NJ property tax assessment system
 - Tax appeal process
 - Homestead benefits and rebates
 - Senior citizen deductions
 
-### [Part 6: Exam Questions & Practice](/nj-real-estate-exam-prep.github.io/module6/part6-exam-questions/)
+### [Part 6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module6/part6-exam-questions/)
 - NJ-specific exam-style questions
 - Answer explanations with NJ law citations
 - Memory aids for NJ regulations
@@ -144,8 +144,8 @@ By completing this module, you will:
 4. Create county-specific reference charts
 
 ## **🔗 Navigation**
-- **Previous Module**: [Module 4: Contracts & Disclosures](/nj-real-estate-exam-prep.github.io/module4/)
-- **Next Practice**: [Module 5 Practice Questions](/nj-real-estate-exam-prep.github.io/practice/module5/)
+- **Previous Module**: [Module 4: Contracts & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module4/)
+- **Next Practice**: [Module 5 Practice Questions](/NJ-Real-Estate-Exam-Prep.github.io/practice/module5/)
 - **Return to**: [Course Home](/)
 
 ---
