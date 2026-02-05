@@ -102,7 +102,7 @@ This module covers all **New Jersey-specific real estate laws** required for the
 - Homestead benefits and rebates
 - Senior citizen deductions
 
-### [Part 6: Exam Questions & Practice](/nj-real-estate-exam-prep.github.io/module5/part6-exam-questions/)
+### [Part 6: Exam Questions & Practice](/nj-real-estate-exam-prep.github.io/module6/part6-exam-questions/)
 - NJ-specific exam-style questions
 - Answer explanations with NJ law citations
 - Memory aids for NJ regulations
