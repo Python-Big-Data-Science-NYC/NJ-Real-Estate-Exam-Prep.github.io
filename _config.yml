@@ -1,0 +1,228 @@
+# New Jersey Real Estate Exam Prep | Exam Topics & Content
+title: "NJ Real Estate Exam Topics | Comprehensive Study Guide"
+description: "Master all New Jersey real estate exam topics with free, accessible content covering required knowledge areas"
+baseurl: "/nj-real-estate-exam-prep.github.io"
+url: "https://nj-real-estate-exam-prep.github.io"
+how_sidebar: false
+
+# Add these lines to hide the GitHub sidebar elements:
+github:
+  is_project_page: false
+  is_user_page: false
+
+# Theme
+theme: jekyll-theme-cayman
+
+# Author Information
+author:
+  name: "NJ Real Estate Education Initiative"
+  email: "nj.realestate.exam@gmail.com"
+  bio: "Specialized in NJ real estate exam content and topic mastery"
+  location: "New Jersey"
+  mission: "Mastering NJ real estate exam topics through structured, accessible learning"
+
+# EXAM TOPICS CONTENT (Replaces general exam info)
+exam_topics:
+  required_areas:
+    - topic: "New Jersey License Law"
+      subtopics:
+        - "NJ Real Estate Commission Rules (N.J.A.C. 11:5)"
+        - "License Categories and Requirements"
+        - "Broker-Salesperson Relationships"
+        - "NJ Advertising Regulations"
+        - "Trust Fund Handling"
+        - "NJ Disciplinary Procedures"
+    
+    - topic: "Agency Law & Relationships"
+      subtopics:
+        - "NJ Agency Disclosure Requirements"
+        - "Single Agency vs. Dual Agency"
+        - "Designated Agency"
+        - "NJ Agency Termination Rules"
+        - "Fiduciary Duties in NJ"
+        - "NJ Consumer Information Statement"
+    
+    - topic: "Contracts & Disclosures"
+      subtopics:
+        - "NJ Real Estate Contract Forms"
+        - "Property Condition Disclosure Act"
+        - "NJ Lead Paint Disclosure"
+        - "Flood Zone Disclosures"
+        - "Megan's Law Disclosure"
+        - "Radon Testing Requirements"
+        - "NJ Smoke Detector/Carbon Monoxide Laws"
+    
+    - topic: "Property Ownership & Rights"
+      subtopics:
+        - "NJ Property Classifications"
+        - "Estate Types in NJ"
+        - "NJ Deed Types & Recording"
+        - "NJ Homestead Benefits"
+        - "NJ Property Tax Appeals"
+        - "NJ Land Use Regulations"
+    
+    - topic: "Real Estate Finance"
+      subtopics:
+        - "NJ Mortgage Laws"
+        - "Truth in Lending Act Applications"
+        - "NJ Foreclosure Process"
+        - "NJ Usury Laws"
+        - "RESPA Requirements in NJ"
+        - "NJ Predatory Lending Laws"
+    
+    - topic: "Property Valuation"
+      subtopics:
+        - "NJ Property Tax Assessment"
+        - "NJ Comparable Market Analysis"
+        - "NJ Appraisal Requirements"
+        - "Tax Appeals Process"
+        - "NJ Assessment Appeals"
+    
+    - topic: "Land Use & Zoning"
+      subtopics:
+        - "NJ Municipal Land Use Law (MLUL)"
+        - "NJ Zoning Ordinances"
+        - "NJ Planning Boards"
+        - "Subdivision Regulations"
+        - "NJ Environmental Regulations"
+    
+    - topic: "Transfer of Title"
+      subtopics:
+        - "NJ Deed Preparation"
+        - "Title Insurance in NJ"
+        - "NJ Recording Requirements"
+        - "NJ Realty Transfer Fees"
+        - "NJ Closing Procedures"
+    
+    - topic: "Leasing & Property Management"
+      subtopics:
+        - "NJ Landlord-Tenant Law"
+        - "NJ Security Deposit Law"
+        - "NJ Eviction Procedures"
+        - "NJ Rent Control Ordinances"
+        - "NJ Lead Safe Certification"
+    
+    - topic: "NJ-Specific Regulations"
+      subtopics:
+        - "NJ Anti-Discrimination Laws (LAD)"
+        - "NJ Environmental Concerns (Wetlands, CAFRA)"
+        - "NJ Beach Access Rights"
+        - "NJ Farmland Assessment Act"
+        - "NJ Pinelands Protection Act"
+
+# Topic Weights & Importance
+topic_distribution:
+  license_law: "25-30%"
+  agency: "20-25%"
+  contracts: "15-20%"
+  finance: "10-15%"
+  property_ownership: "10-15%"
+  other_topics: "10-15%"
+
+# NJ-Specific Content Features
+content_features:
+  - "NJ-Specific Case Studies"
+  - "NJ Commission Rule Summaries"
+  - "County-by-County Variations"
+  - "NJ Form Explanations"
+  - "State Statute References"
+  - "NJ Court Case Examples"
+
+# Accessibility Features
+accessibility:
+  - "WCAG 2.1 AA Compliant"
+  - "Screen Reader Optimized"
+  - "Keyboard Navigable"
+  - "High Contrast Text"
+  - "Text-to-Speech Friendly"
+  - "Topic Navigation by Keyboard"
+
+# Content Types by Topic
+topic_formats:
+  license_law:
+    - "Interactive NJ Rule Quizzes"
+    - "Audio Summaries of N.J.A.C. 11:5"
+    - "Flowcharts of License Procedures"
+  
+  agency:
+    - "Scenario-Based Learning Modules"
+    - "NJ Disclosure Form Walkthroughs"
+    - "Role-Play Audio Exercises"
+  
+  contracts:
+    - "NJ Contract Fill-in Exercises"
+    - "Disclosure Checklist Generator"
+    - "Timeline Visualizations"
+
+# NJ Topic Resources
+topic_resources:
+  statutes: "https://www.njleg.state.nj.us/"
+  commission_rules: "https://www.nj.gov/dobi/division_cons/realestate/rules.shtml"
+  nj_forms: "https://www.nj.gov/dobi/division_cons/realestate/forms.shtml"
+  case_law: "https://www.njcourts.gov/"
+  county_regs: "https://www.nj.gov/dca/divisions/codes/"
+  environmental: "https://www.nj.gov/dep/"
+
+# Site Navigation (Topic-Focused)
+navigation:
+  - title: "Home"
+    url: "/nj-real-estate-exam-prep.github.io/"
+  - title: "NJ License Law Topics"
+    url: "/nj-real-estate-exam-prep.github.io/license-law/"
+  - title: "Agency Law Topics"
+    url: "/nj-real-estate-exam-prep.github.io/agency-law/"
+  - title: "Contract Topics"
+    url: "/nj-real-estate-exam-prep.github.io/contracts/"
+  - title: "Finance Topics"
+    url: "/nj-real-estate-exam-prep.github.io/finance/"
+  - title: "Property Ownership Topics"
+    url: "/nj-real-estate-exam-prep.github.io/property-ownership/"
+  - title: "NJ-Specific Topics"
+    url: "/nj-real-estate-exam-prep.github.io/nj-specific/"
+  - title: "Topic Quizzes"
+    url: "/nj-real-estate-exam-prep.github.io/quizzes/"
+  - title: "Topic Flashcards"
+    url: "/nj-real-estate-exam-prep.github.io/flashcards/"
+  - title: "Contact"
+    url: "/nj-real-estate-exam-prep.github.io/contact/"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/
+  - .git/
+  - .github/
+
+# SEO Settings (Topic-Focused)
+lang: en-US
+timezone: America/New_York
+logo: "/assets/logo.png"
+
+# Topic-Specific Variables
+topic_coverage: "100% NJ Exam Topics"
+last_updated: "2026-01-26"
+statute_references: "N.J.S.A. & N.J.A.C. 11:5"
+nj_counties_covered: "All 21 NJ Counties"
+
+# Site Colors (High contrast for accessibility)
+minimal:
+  skin: dark
+  accent_color: "#3A6B35" # NJ state color green
+
+# Topic Search
+search: true
+search_categories:
+  - "NJ Statutes"
+  - "Commission Rules"
+  - "Case Law"
+  - "Forms"
+  - "County Regulations"
