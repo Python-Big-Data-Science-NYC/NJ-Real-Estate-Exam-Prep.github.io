@@ -4,7 +4,7 @@
 ### Municipal Land Use Law (MLUL) & Zoning (Questions 1-25)
 
 **Question 1**
-**Question:** NJ Municipal Land Use Law (MLUL) governs:
+ NJ Municipal Land Use Law (MLUL) governs:
 **Answer Choices:**
 A. State zoning only
 B. Municipal zoning and planning
@@ -13,7 +13,7 @@ D. Property taxes
 **Correct Answer:** B. Municipal zoning and planning
 
 **Question 2**
-**Question:** Zoning ordinances regulate:
+ Zoning ordinances regulate:
 **Answer Choices:**
 A. Land use
 B. Building size
@@ -22,7 +22,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 3**
-**Question:** Nonconforming use is:
+ Nonconforming use is:
 **Answer Choices:**
 A. Illegal use
 B. Legal but doesn't comply with current zoning
@@ -31,7 +31,7 @@ D. Variance
 **Correct Answer:** B. Legal but doesn't comply with current zoning
 
 **Question 4**
-**Question:** 1980s building violates current zoning but continuous since 1985. This is:
+ 1980s building violates current zoning but continuous since 1985. This is:
 **Answer Choices:**
 A. Variance
 B. Nonconforming use
@@ -40,7 +40,7 @@ D. Conditional use
 **Correct Answer:** B. Nonconforming use
 
 **Question 5**
-**Question:** Nonconforming use typically lost if:
+ Nonconforming use typically lost if:
 **Answer Choices:**
 A. Property sold
 B. Use discontinued for period
@@ -49,7 +49,7 @@ D. Taxes unpaid
 **Correct Answer:** B. Use discontinued for period
 
 **Question 6**
-**Question:** Variance required for:
+ Variance required for:
 **Answer Choices:**
 A. Minor deviation from zoning
 B. Major change in use
@@ -58,7 +58,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 7**
-**Question:** Use variance vs area variance:
+ Use variance vs area variance:
 **Answer Choices:**
 A. Same thing
 B. Use = type of use, Area = physical standards
@@ -67,7 +67,7 @@ D. No difference
 **Correct Answer:** B. Use = type of use, Area = physical standards
 
 **Question 8**
-**Question:** Zoning board of adjustment hears:
+ Zoning board of adjustment hears:
 **Answer Choices:**
 A. Variance requests
 B. Appeals of zoning decisions
@@ -76,7 +76,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 9**
-**Question:** Planning board handles:
+ Planning board handles:
 **Answer Choices:**
 A. Subdivisions
 B. Site plans
@@ -85,7 +85,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 10**
-**Question:** Subdivision definition:
+ Subdivision definition:
 **Answer Choices:**
 A. Dividing parcel into 2+ lots
 B. Combining parcels
@@ -94,7 +94,7 @@ D. Building addition
 **Correct Answer:** A. Dividing parcel into 2+ lots
 
 **Question 11**
-**Question:** Minor subdivision:
+ Minor subdivision:
 **Answer Choices:**
 A. Creates 1-2 new lots
 B. No new lots created
@@ -103,7 +103,7 @@ D. No approval needed
 **Correct Answer:** A. Creates 1-2 new lots
 
 **Question 12**
-**Question:** Major subdivision:
+ Major subdivision:
 **Answer Choices:**
 A. Creates 3+ new lots
 B. Any residential subdivision
@@ -112,7 +112,7 @@ D. Industrial only
 **Correct Answer:** A. Creates 3+ new lots
 
 **Question 13**
-**Question:** Site plan approval required for:
+ Site plan approval required for:
 **Answer Choices:**
 A. New construction
 B. Change of use
@@ -121,7 +121,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 14**
-**Question:** Conditional use requires:
+ Conditional use requires:
 **Answer Choices:**
 A. Special permit
 B. Automatic approval
@@ -130,7 +130,7 @@ D. State approval only
 **Correct Answer:** A. Special permit
 
 **Question 15**
-**Question:** Buffer zone purpose:
+ Buffer zone purpose:
 **Answer Choices:**
 A. Separate land uses
 B. Provide green space
@@ -139,7 +139,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 16**
-**Question:** Setback requirements:
+ Setback requirements:
 **Answer Choices:**
 A. Distance from property lines
 B. Height restrictions
@@ -148,7 +148,7 @@ D. All of the above
 **Correct Answer:** A. Distance from property lines
 
 **Question 17**
-**Question:** Floor area ratio (FAR) regulates:
+ Floor area ratio (FAR) regulates:
 **Answer Choices:**
 A. Building height
 B. Total floor area relative to lot size
@@ -157,7 +157,7 @@ D. Parking spaces
 **Correct Answer:** B. Total floor area relative to lot size
 
 **Question 18**
-**Question:** Bulk regulations include:
+ Bulk regulations include:
 **Answer Choices:**
 A. Setbacks
 B. Height
@@ -166,7 +166,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 19**
-**Question:** Master plan is:
+ Master plan is:
 **Answer Choices:**
 A. Municipal long-term planning document
 B. Zoning map
@@ -175,7 +175,7 @@ D. Federal requirement
 **Correct Answer:** A. Municipal long-term planning document
 
 **Question 20**
-**Question:** Zoning map shows:
+ Zoning map shows:
 **Answer Choices:**
 A. Zoning districts
 B. Flood zones
@@ -184,7 +184,7 @@ D. All of the above
 **Correct Answer:** A. Zoning districts
 
 **Question 21**
-**Question:** Public hearing required for:
+ Public hearing required for:
 **Answer Choices:**
 A. Zoning changes
 B. Variances
@@ -193,7 +193,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 22**
-**Question:** Notice requirements for hearings:
+ Notice requirements for hearings:
 **Answer Choices:**
 A. Newspaper publication
 B. Posted on property
@@ -202,7 +202,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 23**
-**Question:** Appeal of zoning decision to:
+ Appeal of zoning decision to:
 **Answer Choices:**
 A. Superior Court
 B. Municipal Court
@@ -211,7 +211,7 @@ D. No appeals allowed
 **Correct Answer:** A. Superior Court
 
 **Question 24**
-**Question:** Builder's remedy lawsuits:
+ Builder's remedy lawsuits:
 **Answer Choices:**
 A. Force municipalities to allow affordable housing
 B. Standard construction disputes
@@ -220,7 +220,7 @@ D. Environmental lawsuits
 **Correct Answer:** A. Force municipalities to allow affordable housing
 
 **Question 25**
-**Question:** COAH (Council on Affordable Housing):
+ COAH (Council on Affordable Housing):
 **Answer Choices:**
 A. Sets municipal affordable housing obligations
 B. Zoning board
@@ -231,7 +231,7 @@ D. Tax authority
 ### Environmental Regulations (Questions 26-50)
 
 **Question 26**
-**Question:** CAFRA (Coastal Area Facility Review Act) regulates:
+ CAFRA (Coastal Area Facility Review Act) regulates:
 **Answer Choices:**
 A. Coastal development
 B. Mountain development
@@ -240,7 +240,7 @@ D. All development
 **Correct Answer:** A. Coastal development
 
 **Question 27**
-**Question:** CAFRA applies to:
+ CAFRA applies to:
 **Answer Choices:**
 A. Entire coast
 B. Designated coastal areas
@@ -249,7 +249,7 @@ D. Only oceanfront
 **Correct Answer:** B. Designated coastal areas
 
 **Question 28**
-**Question:** Pinelands Protection Act of 1979:
+ Pinelands Protection Act of 1979:
 **Answer Choices:**
 A. Promotes development
 B. Regulates commission rates
@@ -258,7 +258,7 @@ D. Governs agency disclosure
 **Correct Answer:** C. Restricts development in designated areas
 
 **Question 29**
-**Question:** Pinelands Commission oversees:
+ Pinelands Commission oversees:
 **Answer Choices:**
 A. 1 million acres
 B. 500,000 acres
@@ -267,7 +267,7 @@ D. Only state parks
 **Correct Answer:** A. 1 million acres
 
 **Question 30**
-**Question:** Wetlands Protection Act regulates:
+ Wetlands Protection Act regulates:
 **Answer Choices:**
 A. Filling wetlands
 B. Dredging
@@ -276,7 +276,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 31**
-**Question:** Freshwater wetlands regulated by:
+ Freshwater wetlands regulated by:
 **Answer Choices:**
 A. DEP
 B. Municipalities
@@ -285,7 +285,7 @@ D. All of the above
 **Correct Answer:** A. DEP
 
 **Question 32**
-**Question:** Tidelands are:
+ Tidelands are:
 **Answer Choices:**
 A. State-owned underwater lands
 B. Private beachfront
@@ -294,7 +294,7 @@ D. Municipal parks
 **Correct Answer:** A. State-owned underwater lands
 
 **Question 33**
-**Question:** Riparian rights are:
+ Riparian rights are:
 **Answer Choices:**
 A. Waterfront property rights
 B. Mining rights
@@ -303,7 +303,7 @@ D. Subsurface rights
 **Correct Answer:** A. Waterfront property rights
 
 **Question 34**
-**Question:** NJDEP (Department of Environmental Protection) regulates:
+ NJDEP (Department of Environmental Protection) regulates:
 **Answer Choices:**
 A. Water quality
 B. Air quality
@@ -312,7 +312,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 35**
-**Question:** ISRA (Industrial Site Recovery Act) requires:
+ ISRA (Industrial Site Recovery Act) requires:
 **Answer Choices:**
 A. Environmental cleanup of industrial sites
 B. Residential inspections
@@ -321,7 +321,7 @@ D. Lead testing
 **Correct Answer:** A. Environmental cleanup of industrial sites
 
 **Question 36**
-**Question:** Brownfields are:
+ Brownfields are:
 **Answer Choices:**
 A. Contaminated sites being redeveloped
 B. Agricultural land
@@ -330,7 +330,7 @@ D. Beach areas
 **Correct Answer:** A. Contaminated sites being redeveloped
 
 **Question 37**
-**Question:** Green Acres Program:
+ Green Acres Program:
 **Answer Choices:**
 A. Preserves open space
 B. Develops housing
@@ -339,7 +339,7 @@ D. Manages beaches
 **Correct Answer:** A. Preserves open space
 
 **Question 38**
-**Question:** Highlands Water Protection and Planning Act protects:
+ Highlands Water Protection and Planning Act protects:
 **Answer Choices:**
 A. Northern NJ watershed
 B. Southern NJ farmland
@@ -348,7 +348,7 @@ D. Urban centers
 **Correct Answer:** A. Northern NJ watershed
 
 **Question 39**
-**Question:** Stormwater management regulations:
+ Stormwater management regulations:
 **Answer Choices:**
 A. Control runoff
 B. Prevent flooding
@@ -357,7 +357,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 40**
-**Question:** Septic system regulations:
+ Septic system regulations:
 **Answer Choices:**
 A. DEP oversight
 B. Local health department
@@ -366,7 +366,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 41**
-**Question:** Well water testing required for:
+ Well water testing required for:
 **Answer Choices:**
 A. All properties with wells
 B. Only new wells
@@ -375,7 +375,7 @@ D. No testing required
 **Correct Answer:** A. All properties with wells
 
 **Question 42**
-**Question:** Underground storage tank registration:
+ Underground storage tank registration:
 **Answer Choices:**
 A. Required
 B. Optional
@@ -384,7 +384,7 @@ D. Only if leaking
 **Correct Answer:** A. Required
 
 **Question 43**
-**Question:** Asbestos regulations:
+ Asbestos regulations:
 **Answer Choices:**
 A. Federal only
 B. State only
@@ -393,7 +393,7 @@ D. No regulations
 **Correct Answer:** C. Both federal and state
 
 **Question 44**
-**Question:** Mold regulations in NJ:
+ Mold regulations in NJ:
 **Answer Choices:**
 A. Strict regulations
 B. Limited regulations
@@ -402,7 +402,7 @@ D. Only for rentals
 **Correct Answer:** B. Limited regulations
 
 **Question 45**
-**Question:** Radon zones in NJ:
+ Radon zones in NJ:
 **Answer Choices:**
 A. Zone 1 (highest)
 B. Zone 2 (moderate)
@@ -411,7 +411,7 @@ D. All zones present
 **Correct Answer:** D. All zones present
 
 **Question 46**
-**Question:** Endangered species protection:
+ Endangered species protection:
 **Answer Choices:**
 A. Federal ESA
 B. NJ Endangered Species Act
@@ -420,7 +420,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 47**
-**Question:** Flood Hazard Area Control Act:
+ Flood Hazard Area Control Act:
 **Answer Choices:**
 A. Regulates floodplain development
 B. Provides flood insurance
@@ -429,7 +429,7 @@ D. All of the above
 **Correct Answer:** A. Regulates floodplain development
 
 **Question 48**
-**Question:** Stream encroachment permit required for:
+ Stream encroachment permit required for:
 **Answer Choices:**
 A. Work in waterway
 B. Bridge construction
@@ -438,7 +438,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 49**
-**Question:** Waterfront development permit:
+ Waterfront development permit:
 **Answer Choices:**
 A. CAFRA permit
 B. Wetlands permit
@@ -447,7 +447,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 50**
-**Question:** Most stringent environmental regulation often:
+ Most stringent environmental regulation often:
 **Answer Choices:**
 A. Applies
 B. Doesn't apply
@@ -458,7 +458,7 @@ D. Overridden by local rules
 ### NJ Property Tax System (Questions 51-75)
 
 **Question 51**
-**Question:** Property taxes in NJ are based on:
+ Property taxes in NJ are based on:
 **Answer Choices:**
 A. Market value
 B. Assessed value
@@ -467,7 +467,7 @@ D. Appraised value
 **Correct Answer:** B. Assessed value
 
 **Question 52**
-**Question:** Assessed value calculation:
+ Assessed value calculation:
 **Answer Choices:**
 A. Market value × assessment ratio
 B. Purchase price only
@@ -476,7 +476,7 @@ D. Owner's estimate
 **Correct Answer:** A. Market value × assessment ratio
 
 **Question 53**
-**Question:** Assessment ratio example: Market value $250,000, ratio 80%, assessed value:
+ Assessment ratio example: Market value $250,000, ratio 80%, assessed value:
 **Answer Choices:**
 A. $200,000
 B. $250,000
@@ -485,7 +485,7 @@ D. $400,000
 **Correct Answer:** A. $200,000
 
 **Question 54**
-**Question:** Tax rate expressed as:
+ Tax rate expressed as:
 **Answer Choices:**
 A. Dollars per $100 assessed
 B. Percentage
@@ -494,7 +494,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 55**
-**Question:** Mill calculation: 1 mill = 
+ Mill calculation: 1 mill = 
 **Answer Choices:**
 A. $0.001
 B. $0.01
@@ -503,7 +503,7 @@ D. $1.00
 **Correct Answer:** A. $0.001
 
 **Question 56**
-**Question:** Tax calculation: Assessed value $200,000, tax rate 63⅛ mills. Annual tax:
+ Tax calculation: Assessed value $200,000, tax rate 63⅛ mills. Annual tax:
 **Answer Choices:**
 A. $12,625
 B. $15,150
@@ -512,7 +512,7 @@ D. $20,500
 **Correct Answer:** A. $12,625 ($200,000 × 0.063125)
 
 **Question 57**
-**Question:** Property taxes paid:
+ Property taxes paid:
 **Answer Choices:**
 A. Quarterly
 B. Semi-annually
@@ -521,7 +521,7 @@ D. All of the above depending on municipality
 **Correct Answer:** D. All of the above depending on municipality
 
 **Question 58**
-**Question:** Tax appeal deadline:
+ Tax appeal deadline:
 **Answer Choices:**
 A. January 1
 B. April 1
@@ -530,7 +530,7 @@ D. October 1
 **Correct Answer:** B. April 1
 
 **Question 59**
-**Question:** Homestead benefit program provides:
+ Homestead benefit program provides:
 **Answer Choices:**
 A. Property tax credit
 B. Income tax deduction
@@ -539,7 +539,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 60**
-**Question:** Senior Freeze (Property Tax Reimbursement) program:
+ Senior Freeze (Property Tax Reimbursement) program:
 **Answer Choices:**
 A. Freezes taxes for seniors
 B. Reimburses tax increases
@@ -548,7 +548,7 @@ D. Reduces assessment
 **Correct Answer:** B. Reimburses tax increases
 
 **Question 61**
-**Question:** Veterans deduction:
+ Veterans deduction:
 **Answer Choices:**
 A. $250 annually
 B. $500 annually
@@ -557,7 +557,7 @@ D. Varies by municipality
 **Correct Answer:** A. $250 annually
 
 **Question 62**
-**Question:** Disabled persons deduction:
+ Disabled persons deduction:
 **Answer Choices:**
 A. $250 annually
 B. Same as veterans
@@ -566,7 +566,7 @@ D. No special deduction
 **Correct Answer:** A. $250 annually
 
 **Question 63**
-**Question:** Tax abatements for improvements:
+ Tax abatements for improvements:
 **Answer Choices:**
 A. Available in some municipalities
 B. Never available
@@ -575,7 +575,7 @@ D. Only for historic properties
 **Correct Answer:** A. Available in some municipalities
 
 **Question 64**
-**Question:** PILOT (Payment in Lieu of Taxes) programs:
+ PILOT (Payment in Lieu of Taxes) programs:
 **Answer Choices:**
 A. Alternative to property taxes
 B. Higher than property taxes
@@ -584,7 +584,7 @@ D. Illegal in NJ
 **Correct Answer:** A. Alternative to property taxes
 
 **Question 65**
-**Question:** Tax sales occur when:
+ Tax sales occur when:
 **Answer Choices:**
 A. Taxes delinquent 2+ years
 B. Immediately delinquent
@@ -593,7 +593,7 @@ D. Only for commercial
 **Correct Answer:** A. Taxes delinquent 2+ years
 
 **Question 66**
-**Question:** Redemption period after tax sale:
+ Redemption period after tax sale:
 **Answer Choices:**
 A. 2 years
 B. 5 years
@@ -602,7 +602,7 @@ D. No redemption
 **Correct Answer:** A. 2 years
 
 **Question 67**
-**Question:** Equalization ratio used for:
+ Equalization ratio used for:
 **Answer Choices:**
 A. Comparing municipalities
 B. Setting tax rates
@@ -611,7 +611,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 68**
-**Question:** County boards of taxation:
+ County boards of taxation:
 **Answer Choices:**
 A. Hear tax appeals
 B. Set tax rates
@@ -620,7 +620,7 @@ D. All of the above
 **Correct Answer:** A. Hear tax appeals
 
 **Question 69**
-**Question:** Tax assessor is:
+ Tax assessor is:
 **Answer Choices:**
 A. Municipal official
 B. County official
@@ -629,7 +629,7 @@ D. Federal official
 **Correct Answer:** A. Municipal official
 
 **Question 70**
-**Question:** Reassessment occurs:
+ Reassessment occurs:
 **Answer Choices:**
 A. Periodically
 B. Never
@@ -638,7 +638,7 @@ D. Only for commercial
 **Correct Answer:** A. Periodically
 
 **Question 71**
-**Question:** Added assessment tax for improvements:
+ Added assessment tax for improvements:
 **Answer Choices:**
 A. Next tax year
 B. Immediately
@@ -647,7 +647,7 @@ D. Only for pools
 **Correct Answer:** B. Immediately
 
 **Question 72**
-**Question:** Tax proration at closing uses:
+ Tax proration at closing uses:
 **Answer Choices:**
 A. 360-day year
 B. 365-day year
@@ -656,7 +656,7 @@ D. Municipal fiscal year
 **Correct Answer:** C. Either depending on contract
 
 **Question 73**
-**Question:** Prepaid taxes at closing:
+ Prepaid taxes at closing:
 **Answer Choices:**
 A. Credit seller, debit buyer
 B. Credit buyer, debit seller
@@ -665,7 +665,7 @@ D. Paid outside closing
 **Correct Answer:** A. Credit seller, debit buyer
 
 **Question 74**
-**Question:** Taxes paid in arrears means:
+ Taxes paid in arrears means:
 **Answer Choices:**
 A. Paid after period covered
 B. Paid before period
@@ -674,7 +674,7 @@ D. Never paid
 **Correct Answer:** A. Paid after period covered
 
 **Question 75**
-**Question:** NJ has some of the highest:
+ NJ has some of the highest:
 **Answer Choices:**
 A. Property taxes in nation
 B. Income taxes
@@ -685,7 +685,7 @@ D. All of the above
 ### Beach Access & Public Trust Doctrine (Questions 76-90)
 
 **Question 76**
-**Question:** Public Trust Doctrine ensures:
+ Public Trust Doctrine ensures:
 **Answer Choices:**
 A. Public access to tidal waters
 B. Private beach ownership
@@ -694,7 +694,7 @@ D. Tax benefits
 **Correct Answer:** A. Public access to tidal waters
 
 **Question 77**
-**Question:** Mean high water line:
+ Mean high water line:
 **Answer Choices:**
 A. Public land seaward
 B. Private land landward
@@ -703,7 +703,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 78**
-**Question:** Beach badge requirements:
+ Beach badge requirements:
 **Answer Choices:**
 A. All NJ beaches
 B. Some municipalities
@@ -712,7 +712,7 @@ D. Only state beaches
 **Correct Answer:** B. Some municipalities
 
 **Question 79**
-**Question:** Public access points required:
+ Public access points required:
 **Answer Choices:**
 A. Every few miles
 B. No requirement
@@ -721,7 +721,7 @@ D. Only state parks
 **Correct Answer:** A. Every few miles
 
 **Question 80**
-**Question:** Dune protection regulations:
+ Dune protection regulations:
 **Answer Choices:**
 A. Limit construction
 B. Require permits
@@ -730,7 +730,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 81**
-**Question:** Coastal erosion zones:
+ Coastal erosion zones:
 **Answer Choices:**
 A. Restricted development
 B. No restrictions
@@ -739,7 +739,7 @@ D. Federal only
 **Correct Answer:** A. Restricted development
 
 **Question 82**
-**Question:** Beach nourishment projects:
+ Beach nourishment projects:
 **Answer Choices:**
 A. Add sand to beaches
 B. Federally funded often
@@ -748,7 +748,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 83**
-**Question:** Riparian grants are:
+ Riparian grants are:
 **Answer Choices:**
 A. State grants for waterfront
 B. Private ownership of tidelands
@@ -757,7 +757,7 @@ D. Municipal taxes
 **Correct Answer:** B. Private ownership of tidelands
 
 **Question 84**
-**Question:** Waterfront view rights:
+ Waterfront view rights:
 **Answer Choices:**
 A. Not guaranteed
 B. Guaranteed by law
@@ -766,7 +766,7 @@ D. Only if in deed
 **Correct Answer:** A. Not guaranteed
 
 **Question 85**
-**Question:** Beach easements may provide:
+ Beach easements may provide:
 **Answer Choices:**
 A. Access across private property
 B. Parking
@@ -775,7 +775,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 86**
-**Question:** Coastal construction requires:
+ Coastal construction requires:
 **Answer Choices:**
 A. CAFRA permit
 B. Local permits
@@ -784,7 +784,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 87**
-**Question:** Dredging permits required from:
+ Dredging permits required from:
 **Answer Choices:**
 A. DEP
 B. Army Corps of Engineers
@@ -793,7 +793,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 88**
-**Question:** Bulkhead construction:
+ Bulkhead construction:
 **Answer Choices:**
 A. Requires permit
 B. No permit needed
@@ -802,7 +802,7 @@ D. Only state can build
 **Correct Answer:** A. Requires permit
 
 **Question 89**
-**Question:** Public fishing rights:
+ Public fishing rights:
 **Answer Choices:**
 A. Guaranteed in tidal waters
 B. Only with permission
@@ -811,7 +811,7 @@ D. No fishing rights
 **Correct Answer:** A. Guaranteed in tidal waters
 
 **Question 90**
-**Question:** Most beach access disputes involve:
+ Most beach access disputes involve:
 **Answer Choices:**
 A. Mean high water line
 B. Parking
@@ -822,7 +822,7 @@ D. Neither
 ### County-Specific Variations (Questions 91-110)
 
 **Question 91**
-**Question:** NJ has how many counties?
+ NJ has how many counties?
 **Answer Choices:**
 A. 19
 B. 20
@@ -831,7 +831,7 @@ D. 22
 **Correct Answer:** C. 21
 
 **Question 92**
-**Question:** County recording offices handle:
+ County recording offices handle:
 **Answer Choices:**
 A. Deeds
 B. Mortgages
@@ -840,7 +840,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 93**
-**Question:** Transfer tax rates vary by:
+ Transfer tax rates vary by:
 **Answer Choices:**
 A. County
 B. Municipality
@@ -849,7 +849,7 @@ D. Statewide rate
 **Correct Answer:** C. Both A and B
 
 **Question 94**
-**Question:** Basic state transfer tax rate:
+ Basic state transfer tax rate:
 **Answer Choices:**
 A. $0.50 per $500
 B. $1.00 per $500
@@ -858,7 +858,7 @@ D. $4.00 per $500
 **Correct Answer:** B. $1.00 per $500
 
 **Question 95**
-**Question:** County transfer tax additional:
+ County transfer tax additional:
 **Answer Choices:**
 A. Up to $1.00 per $500
 B. Up to $2.00 per $500
@@ -867,7 +867,7 @@ D. No county tax
 **Correct Answer:** B. Up to $2.00 per $500
 
 **Question 96**
-**Question:** Municipal transfer tax allowed:
+ Municipal transfer tax allowed:
 **Answer Choices:**
 A. Up to 1%
 B. Up to 2%
@@ -876,7 +876,7 @@ D. No municipal tax
 **Correct Answer:** A. Up to 1%
 
 **Question 97**
-**Question:** Property sold for $350,600, transfer tax rate 32 cents per $500. Tax:
+ Property sold for $350,600, transfer tax rate 32 cents per $500. Tax:
 **Answer Choices:**
 A. $224.38
 B. $224.64
@@ -885,7 +885,7 @@ D. $0; buyer owes
 **Correct Answer:** B. $224.64
 
 **Question 98**
-**Question:** Transfer tax typically paid by:
+ Transfer tax typically paid by:
 **Answer Choices:**
 A. Seller
 B. Buyer
@@ -894,7 +894,7 @@ D. Broker
 **Correct Answer:** A. Seller
 
 **Question 99**
-**Question:** County clerk's office provides:
+ County clerk's office provides:
 **Answer Choices:**
 A. Recorded documents
 B. Tax maps
@@ -903,7 +903,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 100**
-**Question:** Sheriff's sales conducted by:
+ Sheriff's sales conducted by:
 **Answer Choices:**
 A. County sheriff
 B. State police
@@ -912,7 +912,7 @@ D. Federal marshals
 **Correct Answer:** A. County sheriff
 
 **Question 101**
-**Question:** Foreclosure process varies by:
+ Foreclosure process varies by:
 **Answer Choices:**
 A. Judicial vs non-judicial
 B. NJ is judicial foreclosure state
@@ -921,7 +921,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 102**
-**Question:** Affordable housing requirements vary by:
+ Affordable housing requirements vary by:
 **Answer Choices:**
 A. County
 B. Municipality
@@ -930,7 +930,7 @@ D. Statewide standard
 **Correct Answer:** C. Both A and B
 
 **Question 103**
-**Question:** Rent control ordinances exist in:
+ Rent control ordinances exist in:
 **Answer Choices:**
 A. Some municipalities
 B. All municipalities
@@ -939,7 +939,7 @@ D. Statewide
 **Correct Answer:** A. Some municipalities
 
 **Question 104**
-**Question:** Historic preservation ordinances:
+ Historic preservation ordinances:
 **Answer Choices:**
 A. Vary by municipality
 B. Statewide
@@ -948,7 +948,7 @@ D. No preservation
 **Correct Answer:** A. Vary by municipality
 
 **Question 105**
-**Question:** Building code enforcement by:
+ Building code enforcement by:
 **Answer Choices:**
 A. Municipal construction official
 B. County
@@ -957,7 +957,7 @@ D. All of the above
 **Correct Answer:** A. Municipal construction official
 
 **Question 106**
-**Question:** Certificate of occupancy issued by:
+ Certificate of occupancy issued by:
 **Answer Choices:**
 A. Municipality
 B. County
@@ -966,7 +966,7 @@ D. Federal
 **Correct Answer:** A. Municipality
 
 **Question 107**
-**Question:** Most populous NJ county:
+ Most populous NJ county:
 **Answer Choices:**
 A. Bergen
 B. Essex
@@ -975,7 +975,7 @@ D. Monmouth
 **Correct Answer:** A. Bergen
 
 **Question 108**
-**Question:** Largest county by area:
+ Largest county by area:
 **Answer Choices:**
 A. Burlington
 B. Ocean
@@ -984,7 +984,7 @@ D. Warren
 **Correct Answer:** A. Burlington
 
 **Question 109**
-**Question:** County freeholders are:
+ County freeholders are:
 **Answer Choices:**
 A. County legislators
 B. Tax assessors
@@ -993,7 +993,7 @@ D. Sheriffs
 **Correct Answer:** A. County legislators
 
 **Question 110**
-**Question:** County surcharge on documents:
+ County surcharge on documents:
 **Answer Choices:**
 A. $0.50 per page
 B. $1.00 per page
@@ -1004,7 +1004,7 @@ D. No surcharge
 ### Property Rights & Legal Concepts (Questions 111-130)
 
 **Question 111**
-**Question:** Eminent domain is:
+ Eminent domain is:
 **Answer Choices:**
 A. Government's right to take property
 B. Process of taking
@@ -1013,7 +1013,7 @@ D. Tax foreclosure
 **Correct Answer:** A. Government's right to take property
 
 **Question 112**
-**Question:** Condemnation is:
+ Condemnation is:
 **Answer Choices:**
 A. Process of taking
 B. Right to take
@@ -1022,7 +1022,7 @@ D. Tax sale
 **Correct Answer:** A. Process of taking
 
 **Question 113**
-**Question:** Government takes property for highway expansion. Process:
+ Government takes property for highway expansion. Process:
 **Answer Choices:**
 A. Condemnation
 B. Eminent domain
@@ -1031,7 +1031,7 @@ D. Police power
 **Correct Answer:** B. Eminent domain
 
 **Question 114**
-**Question:** Just compensation required for:
+ Just compensation required for:
 **Answer Choices:**
 A. Eminent domain
 B. Condemnation
@@ -1040,7 +1040,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 115**
-**Question:** Escheat is:
+ Escheat is:
 **Answer Choices:**
 A. Property reverts to state if no heirs
 B. Government taking
@@ -1049,7 +1049,7 @@ D. Private sale
 **Correct Answer:** A. Property reverts to state if no heirs
 
 **Question 116**
-**Question:** Police power allows regulation for:
+ Police power allows regulation for:
 **Answer Choices:**
 A. Health
 B. Safety
@@ -1058,7 +1058,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 117**
-**Question:** Zoning is exercise of:
+ Zoning is exercise of:
 **Answer Choices:**
 A. Police power
 B. Eminent domain
@@ -1067,7 +1067,7 @@ D. Taxation
 **Correct Answer:** A. Police power
 
 **Question 118**
-**Question:** Building codes exercise:
+ Building codes exercise:
 **Answer Choices:**
 A. Police power
 B. Eminent domain
@@ -1076,7 +1076,7 @@ D. Neither
 **Correct Answer:** A. Police power
 
 **Question 119**
-**Question:** Inverse condemnation:
+ Inverse condemnation:
 **Answer Choices:**
 A. Property owner sues for taking
 B. Government initiates taking
@@ -1085,7 +1085,7 @@ D. Tax foreclosure
 **Correct Answer:** A. Property owner sues for taking
 
 **Question 120**
-**Question:** Regulatory taking occurs when:
+ Regulatory taking occurs when:
 **Answer Choices:**
 A. Regulation eliminates all economic value
 B. Any regulation
@@ -1094,7 +1094,7 @@ D. Building permit denial
 **Correct Answer:** A. Regulation eliminates all economic value
 
 **Question 121**
-**Question:** Highest and best use considers:
+ Highest and best use considers:
 **Answer Choices:**
 A. Legally permissible
 B. Physically possible
@@ -1103,7 +1103,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 122**
-**Question:** Assemblage vs plottage:
+ Assemblage vs plottage:
 **Answer Choices:**
 A. Assemblage = combining parcels
 B. Plottage = increased value from combining
@@ -1112,7 +1112,7 @@ D. Same thing
 **Correct Answer:** C. Both A and B
 
 **Question 123**
-**Question:** Regression principle:
+ Regression principle:
 **Answer Choices:**
 A. Higher-value property pulled down by lower-value
 B. Lower-value pulled up by higher-value
@@ -1121,7 +1121,7 @@ D. Market stability
 **Correct Answer:** A. Higher-value property pulled down by lower-value
 
 **Question 124**
-**Question:** Progression principle:
+ Progression principle:
 **Answer Choices:**
 A. Lower-value property pulled up by higher-value
 B. Higher-value pulled down
@@ -1130,7 +1130,7 @@ D. Market decline
 **Correct Answer:** A. Lower-value property pulled up by higher-value
 
 **Question 125**
-**Question:** Substitution principle:
+ Substitution principle:
 **Answer Choices:**
 A. Value set by cost of similar property
 B. Unique property value
@@ -1139,7 +1139,7 @@ D. Tax assessment
 **Correct Answer:** A. Value set by cost of similar property
 
 **Question 126**
-**Question:** Contribution principle:
+ Contribution principle:
 **Answer Choices:**
 A. Improvement value = contribution to property value
 B. Total cost equals value
@@ -1148,7 +1148,7 @@ D. Tax contribution
 **Correct Answer:** A. Improvement value = contribution to property value
 
 **Question 127**
-**Question:** Anticipation principle:
+ Anticipation principle:
 **Answer Choices:**
 A. Value based on future benefits
 B. Past performance
@@ -1157,7 +1157,7 @@ D. Tax history
 **Correct Answer:** A. Value based on future benefits
 
 **Question 128**
-**Question:** Change principle:
+ Change principle:
 **Answer Choices:**
 A. Property values change over time
 B. Values static
@@ -1166,7 +1166,7 @@ D. No change allowed
 **Correct Answer:** A. Property values change over time
 
 **Question 129**
-**Question:** Conformity principle:
+ Conformity principle:
 **Answer Choices:**
 A. Maximum value when properties similar
 B. Maximum when unique
@@ -1175,7 +1175,7 @@ D. Government conformity
 **Correct Answer:** A. Maximum value when properties similar
 
 **Question 130**
-**Question:** Externalities affect value:
+ Externalities affect value:
 **Answer Choices:**
 A. Positive or negative external factors
 B. Only internal factors

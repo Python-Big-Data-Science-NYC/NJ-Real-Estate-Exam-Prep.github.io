@@ -4,7 +4,7 @@
 ### NJ Agency Disclosure Requirements (Questions 1-25)
 
 **Question 1**
-**Question:** The Consumer Information Statement on Agency must be presented:
+ The Consumer Information Statement on Agency must be presented:
 **Answer Choices:**
 A. At the first scheduled property showing
 B. Before any substantive discussions about a specific property
@@ -13,7 +13,7 @@ D. Within 72 hours of initial contact
 **Correct Answer:** B. Before any substantive discussions about a specific property
 
 **Question 2**
-**Question:** "Substantive discussions" means:
+ "Substantive discussions" means:
 **Answer Choices:**
 A. Any conversation about real estate
 B. Discussions that go beyond general market information
@@ -22,7 +22,7 @@ D. Only at property showing
 **Correct Answer:** B. Discussions that go beyond general market information
 
 **Question 3**
-**Question:** The CIS must be presented:
+ The CIS must be presented:
 **Answer Choices:**
 A. Orally
 B. In writing
@@ -31,7 +31,7 @@ D. By email only
 **Correct Answer:** B. In writing
 
 **Question 4**
-**Question:** Buyer must sign CIS:
+ Buyer must sign CIS:
 **Answer Choices:**
 A. At first meeting
 B. Before writing offer
@@ -40,7 +40,7 @@ D. Acknowledgement not required
 **Correct Answer:** B. Before writing offer
 
 **Question 5**
-**Question:** Seller must sign CIS:
+ Seller must sign CIS:
 **Answer Choices:**
 A. At listing presentation
 B. When listing is signed
@@ -49,7 +49,7 @@ D. At closing
 **Correct Answer:** B. When listing is signed
 
 **Question 6**
-**Question:** CIS must be presented by:
+ CIS must be presented by:
 **Answer Choices:**
 A. Listing agent only
 B. Selling agent only
@@ -58,7 +58,7 @@ D. Either agent
 **Correct Answer:** C. Both agents
 
 **Question 7**
-**Question:** Failure to present CIS can result in:
+ Failure to present CIS can result in:
 **Answer Choices:**
 A. No consequences
 B. Commission reduction
@@ -67,7 +67,7 @@ D. Criminal charges
 **Correct Answer:** C. Disciplinary action
 
 **Question 8**
-**Question:** CIS explains:
+ CIS explains:
 **Answer Choices:**
 A. Commission rates
 B. Agency relationships
@@ -76,7 +76,7 @@ D. Financing options
 **Correct Answer:** B. Agency relationships
 
 **Question 9**
-**Question:** CIS must be in:
+ CIS must be in:
 **Answer Choices:**
 A. English only
 B. English and Spanish
@@ -85,7 +85,7 @@ D. Broker's choice
 **Correct Answer:** C. Language client understands
 
 **Question 10**
-**Question:** CIS for rental properties:
+ CIS for rental properties:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -94,7 +94,7 @@ D. Required for residential only
 **Correct Answer:** B. Not required
 
 **Question 11**
-**Question:** CIS for commercial transactions:
+ CIS for commercial transactions:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -103,7 +103,7 @@ D. Only for leases
 **Correct Answer:** A. Required
 
 **Question 12**
-**Question:** CIS presented to both buyer and seller in same transaction:
+ CIS presented to both buyer and seller in same transaction:
 **Answer Choices:**
 A. Same form
 B. Different forms
@@ -112,7 +112,7 @@ D. Not required for both
 **Correct Answer:** A. Same form
 
 **Question 13**
-**Question:** CIS acknowledgement is:
+ CIS acknowledgement is:
 **Answer Choices:**
 A. Binding agency agreement
 B. Acknowledgement of receipt only
@@ -121,7 +121,7 @@ D. Waives rights
 **Correct Answer:** B. Acknowledgement of receipt only
 
 **Question 14**
-**Question:** CIS must be presented even if:
+ CIS must be presented even if:
 **Answer Choices:**
 A. Client is family member
 B. Transaction is with another agent in same office
@@ -130,7 +130,7 @@ D. Neither A nor B
 **Correct Answer:** C. Both A and B
 
 **Question 15**
-**Question:** CIS for FSBO where licensee is helping buyer:
+ CIS for FSBO where licensee is helping buyer:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -139,7 +139,7 @@ D. Only if writing offer
 **Correct Answer:** A. Required
 
 **Question 16**
-**Question:** CIS for open house attendees:
+ CIS for open house attendees:
 **Answer Choices:**
 A. Required for all
 B. Required if substantive discussion
@@ -148,7 +148,7 @@ D. Required if they return
 **Correct Answer:** B. Required if substantive discussion
 
 **Question 17**
-**Question:** CIS for telephone inquiries:
+ CIS for telephone inquiries:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -157,7 +157,7 @@ D. Required for second call
 **Correct Answer:** C. Required if discussing specific property
 
 **Question 18**
-**Question:** Electronic delivery of CIS:
+ Electronic delivery of CIS:
 **Answer Choices:**
 A. Permitted
 B. Not permitted
@@ -166,7 +166,7 @@ D. Permitted for commercial only
 **Correct Answer:** A. Permitted
 
 **Question 19**
-**Question:** CIS retention period:
+ CIS retention period:
 **Answer Choices:**
 A. 1 year
 B. 3 years
@@ -175,7 +175,7 @@ D. 10 years
 **Correct Answer:** C. 6 years
 
 **Question 20**
-**Question:** CIS vs agency agreement:
+ CIS vs agency agreement:
 **Answer Choices:**
 A. Same document
 B. Different purposes
@@ -184,7 +184,7 @@ D. Agreement replaces CIS
 **Correct Answer:** B. Different purposes
 
 **Question 21**
-**Question:** CIS must be presented before:
+ CIS must be presented before:
 **Answer Choices:**
 A. Showing properties
 B. Discussing client's financial situation
@@ -193,7 +193,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 22**
-**Question:** CIS for auction transactions:
+ CIS for auction transactions:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -202,7 +202,7 @@ D. Only for residential
 **Correct Answer:** A. Required
 
 **Question 23**
-**Question:** CIS for land purchase:
+ CIS for land purchase:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -211,7 +211,7 @@ D. Only for development
 **Correct Answer:** A. Required
 
 **Question 24**
-**Question:** CIS for timeshare purchase:
+ CIS for timeshare purchase:
 **Answer Choices:**
 A. Required
 B. Not required
@@ -220,7 +220,7 @@ D. Only in NJ
 **Correct Answer:** A. Required
 
 **Question 25**
-**Question:** CIS amendment if agency changes:
+ CIS amendment if agency changes:
 **Answer Choices:**
 A. New CIS required
 B. Addendum to original
@@ -231,7 +231,7 @@ D. No change needed
 ### Single vs. Dual Agency (Questions 26-50)
 
 **Question 26**
-**Question:** Dual agency in NJ:
+ Dual agency in NJ:
 **Answer Choices:**
 A. Prohibited
 B. Permitted with consent
@@ -240,7 +240,7 @@ D. Permitted only commercial
 **Correct Answer:** B. Permitted with consent
 
 **Question 27**
-**Question:** Dual agency requires:
+ Dual agency requires:
 **Answer Choices:**
 A. Written consent
 B. Verbal consent
@@ -249,7 +249,7 @@ D. Commission approval
 **Correct Answer:** A. Written consent
 
 **Question 28**
-**Question:** Dual agency consent must be:
+ Dual agency consent must be:
 **Answer Choices:**
 A. Informed
 B. Voluntary
@@ -258,7 +258,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 29**
-**Question:** In dual agency, licensee:
+ In dual agency, licensee:
 **Answer Choices:**
 A. Represents both equally
 B. Cannot advocate for either
@@ -267,7 +267,7 @@ D. Can favor one party
 **Correct Answer:** B. Cannot advocate for either
 
 **Question 30**
-**Question:** Dual agency limitations include:
+ Dual agency limitations include:
 **Answer Choices:**
 A. Cannot disclose confidential information
 B. Cannot advise on price
@@ -276,7 +276,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 31**
-**Question:** In dual agency with written consent, seller reveals they'd accept $25,000 less. Buyer asks about pricing. Your first obligation:
+ In dual agency with written consent, seller reveals they'd accept $25,000 less. Buyer asks about pricing. Your first obligation:
 **Answer Choices:**
 A. Suggest offering less
 B. Maintain confidentiality, give general advice
@@ -285,7 +285,7 @@ D. Disclose urgency but not exact amount
 **Correct Answer:** B. Maintain confidentiality, give general advice
 
 **Question 32**
-**Question:** Dual agency prohibited when:
+ Dual agency prohibited when:
 **Answer Choices:**
 A. Parties are relatives
 B. Property is commercial
@@ -294,7 +294,7 @@ D. Always prohibited
 **Correct Answer:** C. Conflict of interest exists
 
 **Question 33**
-**Question:** Dual agency commission:
+ Dual agency commission:
 **Answer Choices:**
 A. Must be reduced
 B. Can be full commission
@@ -303,7 +303,7 @@ D. Cannot be charged
 **Correct Answer:** B. Can be full commission
 
 **Question 34**
-**Question:** Undisclosed dual agency is:
+ Undisclosed dual agency is:
 **Answer Choices:**
 A. Permitted
 B. Prohibited
@@ -312,7 +312,7 @@ D. Common practice
 **Correct Answer:** B. Prohibited
 
 **Question 35**
-**Question:** Dual agency consent can be withdrawn:
+ Dual agency consent can be withdrawn:
 **Answer Choices:**
 A. Anytime
 B. Never
@@ -321,7 +321,7 @@ D. Only with penalty
 **Correct Answer:** A. Anytime
 
 **Question 36**
-**Question:** If dual agency consent withdrawn:
+ If dual agency consent withdrawn:
 **Answer Choices:**
 A. Transaction terminates
 B. Another agent takes over
@@ -330,7 +330,7 @@ D. Both parties must agree to continue
 **Correct Answer:** B. Another agent takes over
 
 **Question 37**
-**Question:** Dual agency in same office but different agents:
+ Dual agency in same office but different agents:
 **Answer Choices:**
 A. Same as single agent dual agency
 B. Designated agency
@@ -339,7 +339,7 @@ D. No disclosure needed
 **Correct Answer:** B. Designated agency
 
 **Question 38**
-**Question:** Dual agency risks include:
+ Dual agency risks include:
 **Answer Choices:**
 A. Breach of fiduciary duty
 B. Lawsuits
@@ -348,7 +348,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 39**
-**Question:** Dual agency most appropriate when:
+ Dual agency most appropriate when:
 **Answer Choices:**
 A. Simple transaction
 B. Complex negotiation
@@ -357,7 +357,7 @@ D. Never appropriate
 **Correct Answer:** A. Simple transaction
 
 **Question 40**
-**Question:** Dual agency disclosure timing:
+ Dual agency disclosure timing:
 **Answer Choices:**
 A. Before substantive discussions
 B. When offer is written
@@ -366,7 +366,7 @@ D. When discovered
 **Correct Answer:** A. Before substantive discussions
 
 **Question 41**
-**Question:** Dual agency with in-house transaction:
+ Dual agency with in-house transaction:
 **Answer Choices:**
 A. Requires special consent
 B. Same as other dual agency
@@ -375,7 +375,7 @@ D. No disclosure needed
 **Correct Answer:** B. Same as other dual agency
 
 **Question 42**
-**Question:** Broker acting as dual agent:
+ Broker acting as dual agent:
 **Answer Choices:**
 A. Same rules apply
 B. Different rules
@@ -384,7 +384,7 @@ D. No supervision needed
 **Correct Answer:** A. Same rules apply
 
 **Question 43**
-**Question:** Salesperson as dual agent requires:
+ Salesperson as dual agent requires:
 **Answer Choices:**
 A. Broker approval
 B. No approval
@@ -393,7 +393,7 @@ D. Client approval only
 **Correct Answer:** A. Broker approval
 
 **Question 44**
-**Question:** Dual agency record retention:
+ Dual agency record retention:
 **Answer Choices:**
 A. Same as other records
 B. Special requirements
@@ -402,7 +402,7 @@ D. 10 years
 **Correct Answer:** A. Same as other records
 
 **Question 45**
-**Question:** Dual agency in lease transactions:
+ Dual agency in lease transactions:
 **Answer Choices:**
 A. Same rules apply
 B. Different rules
@@ -411,7 +411,7 @@ D. No disclosure needed
 **Correct Answer:** A. Same rules apply
 
 **Question 46**
-**Question:** Commercial dual agency:
+ Commercial dual agency:
 **Answer Choices:**
 A. Same rules
 B. Different rules
@@ -420,7 +420,7 @@ D. No consent needed
 **Correct Answer:** A. Same rules
 
 **Question 47**
-**Question:** Dual agency with investor clients:
+ Dual agency with investor clients:
 **Answer Choices:**
 A. Easier to manage
 B. More complex
@@ -429,7 +429,7 @@ D. No disclosure
 **Correct Answer:** B. More complex
 
 **Question 48**
-**Question:** Dual agency training requirement:
+ Dual agency training requirement:
 **Answer Choices:**
 A. Required for all licensees
 B. Optional
@@ -438,7 +438,7 @@ D. No training
 **Correct Answer:** A. Required for all licensees
 
 **Question 49**
-**Question:** Dual agency in multiple offer situation:
+ Dual agency in multiple offer situation:
 **Answer Choices:**
 A. Permitted
 B. Prohibited
@@ -447,7 +447,7 @@ D. Must disclose to all parties
 **Correct Answer:** D. Must disclose to all parties
 
 **Question 50**
-**Question:** Withdrawing from dual agency:
+ Withdrawing from dual agency:
 **Answer Choices:**
 A. Can continue with one party
 B. Must withdraw from both
@@ -458,7 +458,7 @@ D. Continue with reduced role
 ### Designated Agency in New Jersey (Questions 51-75)
 
 **Question 51**
-**Question:** Designated agency is:
+ Designated agency is:
 **Answer Choices:**
 A. Prohibited in NJ
 B. Permitted with office policy
@@ -467,7 +467,7 @@ D. Only for large firms
 **Correct Answer:** B. Permitted with office policy
 
 **Question 52**
-**Question:** Designated agency allows:
+ Designated agency allows:
 **Answer Choices:**
 A. Same agent represents both parties
 B. Different agents in same office represent different parties
@@ -476,7 +476,7 @@ D. Limited agency
 **Correct Answer:** B. Different agents in same office represent different parties
 
 **Question 53**
-**Question:** Designated agency requires:
+ Designated agency requires:
 **Answer Choices:**
 A. Written office policy
 B. Client consent
@@ -485,7 +485,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 54**
-**Question:** In designated agency, confidential information:
+ In designated agency, confidential information:
 **Answer Choices:**
 A. Can be shared within office
 B. Cannot be shared
@@ -494,7 +494,7 @@ D. Shared with consent
 **Correct Answer:** B. Cannot be shared
 
 **Question 55**
-**Question:** Designated agency supervision by broker:
+ Designated agency supervision by broker:
 **Answer Choices:**
 A. Broker is dual agent
 B. Broker is neutral
@@ -503,7 +503,7 @@ D. No supervision
 **Correct Answer:** B. Broker is neutral
 
 **Question 56**
-**Question:** Kenji obtains listing for Martha's house, then helps her buy new house with signed buyer agency. Kenji is:
+ Kenji obtains listing for Martha's house, then helps her buy new house with signed buyer agency. Kenji is:
 **Answer Choices:**
 A. Designated buyer's agent only
 B. Designated seller's agent only
@@ -512,7 +512,7 @@ D. Dual agent
 **Correct Answer:** C. Designated seller's agent and designated buyer's agent
 
 **Question 57**
-**Question:** Designated agency disclosure timing:
+ Designated agency disclosure timing:
 **Answer Choices:**
 A. Before agency established
 B. When conflict arises
@@ -521,7 +521,7 @@ D. Not required
 **Correct Answer:** A. Before agency established
 
 **Question 58**
-**Question:** Designated agency vs dual agency:
+ Designated agency vs dual agency:
 **Answer Choices:**
 A. Same thing
 B. Different concepts
@@ -530,7 +530,7 @@ D. Both prohibited
 **Correct Answer:** B. Different concepts
 
 **Question 59**
-**Question:** Designated agency commission:
+ Designated agency commission:
 **Answer Choices:**
 A. Split between agents
 B. Full to one agent
@@ -539,7 +539,7 @@ D. Broker keeps all
 **Correct Answer:** A. Split between agents
 
 **Question 60**
-**Question:** Designated agency switch to dual agency:
+ Designated agency switch to dual agency:
 **Answer Choices:**
 A. Permitted
 B. Requires new consent
@@ -548,7 +548,7 @@ D. Automatic
 **Correct Answer:** B. Requires new consent
 
 **Question 61**
-**Question:** Designated agency office policy must address:
+ Designated agency office policy must address:
 **Answer Choices:**
 A. Confidentiality
 B. Supervision
@@ -557,7 +557,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 62**
-**Question:** Designated agency for rental properties:
+ Designated agency for rental properties:
 **Answer Choices:**
 A. Same rules apply
 B. Different rules
@@ -566,7 +566,7 @@ D. No policy needed
 **Correct Answer:** A. Same rules apply
 
 **Question 63**
-**Question:** Designated agency training:
+ Designated agency training:
 **Answer Choices:**
 A. Required
 B. Optional
@@ -575,7 +575,7 @@ D. Not addressed
 **Correct Answer:** A. Required
 
 **Question 64**
-**Question:** Designated agency record keeping:
+ Designated agency record keeping:
 **Answer Choices:**
 A. Special requirements
 B. Same as other agency
@@ -584,7 +584,7 @@ D. 10 year retention
 **Correct Answer:** B. Same as other agency
 
 **Question 65**
-**Question:** Designated agency with teams:
+ Designated agency with teams:
 **Answer Choices:**
 A. Permitted
 B. Prohibited
@@ -593,7 +593,7 @@ D. Special rules apply
 **Correct Answer:** A. Permitted
 
 **Question 66**
-**Question:** Designated agency broker liability:
+ Designated agency broker liability:
 **Answer Choices:**
 A. Reduced
 B. Increased
@@ -602,7 +602,7 @@ D. No liability
 **Correct Answer:** C. Same as other agency
 
 **Question 67**
-**Question:** Designated agency termination:
+ Designated agency termination:
 **Answer Choices:**
 A. Same as other agency
 B. Special procedures
@@ -611,7 +611,7 @@ D. Automatic at closing
 **Correct Answer:** A. Same as other agency
 
 **Question 68**
-**Question:** Designated agency in commercial:
+ Designated agency in commercial:
 **Answer Choices:**
 A. Same rules
 B. Different rules
@@ -620,7 +620,7 @@ D. No disclosure
 **Correct Answer:** A. Same rules
 
 **Question 69**
-**Question:** Designated agency multiple representation:
+ Designated agency multiple representation:
 **Answer Choices:**
 A. Permitted
 B. Prohibited
@@ -629,7 +629,7 @@ D. Broker approval needed
 **Correct Answer:** A. Permitted
 
 **Question 70**
-**Question:** Designated agency vs transaction brokerage:
+ Designated agency vs transaction brokerage:
 **Answer Choices:**
 A. Same concept
 B. Different concepts
@@ -638,7 +638,7 @@ D. Both prohibited
 **Correct Answer:** C. NJ doesn't allow transaction brokerage
 
 **Question 71**
-**Question:** Designated agency confidentiality breach:
+ Designated agency confidentiality breach:
 **Answer Choices:**
 A. No issue within office
 B. Disciplinary action
@@ -647,7 +647,7 @@ D. Permitted with consent
 **Correct Answer:** B. Disciplinary action
 
 **Question 72**
-**Question:** Designated agency supervisory broker role:
+ Designated agency supervisory broker role:
 **Answer Choices:**
 A. Advocate for one party
 B. Neutral facilitator
@@ -656,7 +656,7 @@ D. Decides disputes
 **Correct Answer:** B. Neutral facilitator
 
 **Question 73**
-**Question:** Designated agency client consent:
+ Designated agency client consent:
 **Answer Choices:**
 A. Can be implied
 B. Must be written
@@ -665,7 +665,7 @@ D. Not required
 **Correct Answer:** B. Must be written
 
 **Question 74**
-**Question:** Designated agency between brokers in same firm:
+ Designated agency between brokers in same firm:
 **Answer Choices:**
 A. Permitted
 B. Prohibited
@@ -674,7 +674,7 @@ D. No disclosure needed
 **Correct Answer:** A. Permitted
 
 **Question 75**
-**Question:** Designated agency for new construction:
+ Designated agency for new construction:
 **Answer Choices:**
 A. Same rules
 B. Different rules
@@ -685,7 +685,7 @@ D. Builder is always client
 ### Fiduciary Duties in NJ (Questions 76-100)
 
 **Question 76**
-**Question:** Fiduciary duties include:
+ Fiduciary duties include:
 **Answer Choices:**
 A. Care
 B. Confidentiality
@@ -694,7 +694,7 @@ D. All of the above
 **Correct Answer:** D. All of the above
 
 **Question 77**
-**Question:** Duty of care requires:
+ Duty of care requires:
 **Answer Choices:**
 A. Reasonable skill and diligence
 B. Perfect results
@@ -703,7 +703,7 @@ D. Minimal effort
 **Correct Answer:** A. Reasonable skill and diligence
 
 **Question 78**
-**Question:** Duty of confidentiality:
+ Duty of confidentiality:
 **Answer Choices:**
 A. Lasts forever
 B. Ends at closing
@@ -712,7 +712,7 @@ D. Can be waived
 **Correct Answer:** A. Lasts forever
 
 **Question 79**
-**Question:** Confidential information includes:
+ Confidential information includes:
 **Answer Choices:**
 A. Motivation to sell
 B. Financial information
@@ -721,7 +721,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 80**
-**Question:** Duty of obedience:
+ Duty of obedience:
 **Answer Choices:**
 A. Follow all instructions
 B. Follow legal instructions only
@@ -730,7 +730,7 @@ D. No duty
 **Correct Answer:** B. Follow legal instructions only
 
 **Question 81**
-**Question:** Duty of loyalty:
+ Duty of loyalty:
 **Answer Choices:**
 A. Put client's interests first
 B. Equal treatment of all
@@ -739,7 +739,7 @@ D. No duty
 **Correct Answer:** A. Put client's interests first
 
 **Question 82**
-**Question:** Duty of disclosure:
+ Duty of disclosure:
 **Answer Choices:**
 A. Disclose all material facts
 B. Disclose only requested information
@@ -748,7 +748,7 @@ D. Disclose only positive facts
 **Correct Answer:** A. Disclose all material facts
 
 **Question 83**
-**Question:** Duty of accounting:
+ Duty of accounting:
 **Answer Choices:**
 A. Handle funds properly
 B. Provide regular statements
@@ -757,7 +757,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 84**
-**Question:** Breach of fiduciary duty can result in:
+ Breach of fiduciary duty can result in:
 **Answer Choices:**
 A. Disciplinary action
 B. Civil lawsuit
@@ -766,7 +766,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 85**
-**Question:** Fiduciary duties to customer:
+ Fiduciary duties to customer:
 **Answer Choices:**
 A. Same as client
 B. Limited duties
@@ -775,7 +775,7 @@ D. Different duties
 **Correct Answer:** B. Limited duties
 
 **Question 86**
-**Question:** Customer duties include:
+ Customer duties include:
 **Answer Choices:**
 A. Honesty
 B. Fair dealing
@@ -784,7 +784,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 87**
-**Question:** Fiduciary duties begin:
+ Fiduciary duties begin:
 **Answer Choices:**
 A. At first contact
 B. When agency created
@@ -793,7 +793,7 @@ D. At closing
 **Correct Answer:** B. When agency created
 
 **Question 88**
-**Question:** Fiduciary duties end:
+ Fiduciary duties end:
 **Answer Choices:**
 A. At closing
 B. When agency terminated
@@ -802,7 +802,7 @@ D. 30 days after closing
 **Correct Answer:** B. When agency terminated
 
 **Question 89**
-**Question:** Confidentiality exception:
+ Confidentiality exception:
 **Answer Choices:**
 A. Court order
 B. Client permission
@@ -811,7 +811,7 @@ D. No exceptions
 **Correct Answer:** C. Both A and B
 
 **Question 90**
-**Question:** Material fact definition:
+ Material fact definition:
 **Answer Choices:**
 A. Would affect decision
 B. Minor detail
@@ -820,7 +820,7 @@ D. Subjective
 **Correct Answer:** A. Would affect decision
 
 **Question 91**
-**Question:** Dual agent fiduciary duties:
+ Dual agent fiduciary duties:
 **Answer Choices:**
 A. To both parties equally
 B. Limited duties
@@ -829,7 +829,7 @@ D. To broker only
 **Correct Answer:** B. Limited duties
 
 **Question 92**
-**Question:** Designated agent fiduciary duties:
+ Designated agent fiduciary duties:
 **Answer Choices:**
 A. Full duties to client
 B. Limited duties
@@ -838,7 +838,7 @@ D. To broker only
 **Correct Answer:** A. Full duties to client
 
 **Question 93**
-**Question:** Subagent fiduciary duties:
+ Subagent fiduciary duties:
 **Answer Choices:**
 A. To their client
 B. To all parties
@@ -847,7 +847,7 @@ D. Limited duties
 **Correct Answer:** A. To their client
 
 **Question 94**
-**Question:** Fiduciary duty vs legal duty:
+ Fiduciary duty vs legal duty:
 **Answer Choices:**
 A. Same thing
 B. Different standards
@@ -856,7 +856,7 @@ D. Legal is higher
 **Correct Answer:** C. Fiduciary is higher
 
 **Question 95**
-**Question:** Breach of loyalty example:
+ Breach of loyalty example:
 **Answer Choices:**
 A. Self-dealing
 B. Secret profit
@@ -865,7 +865,7 @@ D. Neither
 **Correct Answer:** C. Both A and B
 
 **Question 96**
-**Question:** Licensee Gary knows about potential zoning change, doesn't mention to seller, buys property with partner, sells later for profit. This is:
+ Licensee Gary knows about potential zoning change, doesn't mention to seller, buys property with partner, sells later for profit. This is:
 **Answer Choices:**
 A. Breach of confidentiality
 B. Breach of obedience
@@ -874,7 +874,7 @@ D. No breach
 **Correct Answer:** C. Self-dealing
 
 **Question 97**
-**Question:** Fiduciary duty training requirement:
+ Fiduciary duty training requirement:
 **Answer Choices:**
 A. Required in pre-license
 B. Required in CE
@@ -883,7 +883,7 @@ D. No training
 **Correct Answer:** C. Both A and B
 
 **Question 98**
-**Question:** Fiduciary duty documentation:
+ Fiduciary duty documentation:
 **Answer Choices:**
 A. Must be in writing
 B. Implied by law
@@ -892,7 +892,7 @@ D. Optional
 **Correct Answer:** B. Implied by law
 
 **Question 99**
-**Question:** Fiduciary duty to former client:
+ Fiduciary duty to former client:
 **Answer Choices:**
 A. Continues forever
 B. Ends with agency
@@ -901,7 +901,7 @@ D. No duties
 **Correct Answer:** C. Limited duties
 
 **Question 100**
-**Question:** Most important fiduciary duty:
+ Most important fiduciary duty:
 **Answer Choices:**
 A. Loyalty
 B. Care
@@ -912,7 +912,7 @@ D. All equal
 ### Agency Relationships & Scenarios (Questions 101-115)
 
 **Question 101**
-**Question:** Client vs customer difference:
+ Client vs customer difference:
 **Answer Choices:**
 A. Client has fiduciary relationship
 B. Customer receives services without fiduciary duties
@@ -921,7 +921,7 @@ D. Same thing
 **Correct Answer:** C. Both A and B
 
 **Question 102**
-**Question:** Agency can be created by:
+ Agency can be created by:
 **Answer Choices:**
 A. Written agreement
 B. Implied by actions
@@ -930,7 +930,7 @@ D. Written only
 **Correct Answer:** C. Both A and B
 
 **Question 103**
-**Question:** Express agency requires:
+ Express agency requires:
 **Answer Choices:**
 A. Written agreement
 B. Verbal agreement
@@ -939,7 +939,7 @@ D. No agreement
 **Correct Answer:** C. Either written or verbal
 
 **Question 104**
-**Question:** Implied agency created when:
+ Implied agency created when:
 **Answer Choices:**
 A. Actions suggest agency
 B. Client relies on agent
@@ -948,7 +948,7 @@ D. Never created
 **Correct Answer:** C. Both A and B
 
 **Question 105**
-**Question:** Agency by ratification:
+ Agency by ratification:
 **Answer Choices:**
 A. After-the-fact approval
 B. Before actions
@@ -957,7 +957,7 @@ D. Not valid
 **Correct Answer:** A. After-the-fact approval
 
 **Question 106**
-**Question:** Agency by estoppel:
+ Agency by estoppel:
 **Answer Choices:**
 A. Created by reliance
 B. Written agreement
@@ -966,7 +966,7 @@ D. Not recognized
 **Correct Answer:** A. Created by reliance
 
 **Question 107**
-**Question:** Universal agent:
+ Universal agent:
 **Answer Choices:**
 A. Broad authority
 B. Limited authority
@@ -975,7 +975,7 @@ D. Not used in real estate
 **Correct Answer:** A. Broad authority
 
 **Question 108**
-**Question:** General agent:
+ General agent:
 **Answer Choices:**
 A. Ongoing authority
 B. Single transaction
@@ -984,7 +984,7 @@ D. Limited authority
 **Correct Answer:** A. Ongoing authority
 
 **Question 109**
-**Question:** Special agent:
+ Special agent:
 **Answer Choices:**
 A. Specific task
 B. Broad authority
@@ -993,7 +993,7 @@ D. For all transactions
 **Correct Answer:** A. Specific task
 
 **Question 110**
-**Question:** Real estate agents are typically:
+ Real estate agents are typically:
 **Answer Choices:**
 A. Universal agents
 B. General agents
@@ -1002,7 +1002,7 @@ D. Attorneys-in-fact
 **Correct Answer:** C. Special agents
 
 **Question 111**
-**Question:** Attorney-in-fact:
+ Attorney-in-fact:
 **Answer Choices:**
 A. Power of attorney
 B. Real estate agent
@@ -1011,7 +1011,7 @@ D. None of above
 **Correct Answer:** A. Power of attorney
 
 **Question 112**
-**Question:** Subagency:
+ Subagency:
 **Answer Choices:**
 A. Representing another agent's client
 B. Direct representation
@@ -1020,7 +1020,7 @@ D. No representation
 **Correct Answer:** A. Representing another agent's client
 
 **Question 113**
-**Question:** Subagency in NJ:
+ Subagency in NJ:
 **Answer Choices:**
 A. Common
 B. Rare
@@ -1029,7 +1029,7 @@ D. Required
 **Correct Answer:** B. Rare
 
 **Question 114**
-**Question:** Facilitator/transaction broker:
+ Facilitator/transaction broker:
 **Answer Choices:**
 A. Permitted in NJ
 B. Prohibited in NJ
@@ -1038,7 +1038,7 @@ D. No duties
 **Correct Answer:** B. Prohibited in NJ
 
 **Question 115**
-**Question:** Non-agent:
+ Non-agent:
 **Answer Choices:**
 A. Has no fiduciary duties
 B. Has limited duties
