@@ -22,27 +22,27 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 
 ## 📋 Course Modules
 
-### Module 1: New Jersey Real Estate License Fundamentals [module1](module1)
+### Module 1: New Jersey Real Estate License Fundamentals [module1](module1) [module1-part2](module1-part2)
 - **NJ Exam Structure**: Format, 110 questions, 150 minutes
 - **NJ Real Estate Commission (NJREC) Requirements**: Pre-licensing, application, fees
 - **Testing Accommodations**: PSI testing center accessibility options
 - **NJ Scoring System**: 75% passing score, question breakdown
 
-### Module 2: New Jersey License Law (25-30% of Exam) [module2](module2)
+### Module 2: New Jersey License Law (25-30% of Exam) [module2](module2)  [module2-part2](module2-part2) 
 - **NJ Real Estate License Act**: N.J.A.C. 11:5 rules and regulations
 - **Broker-Salesperson Relationships**: Supervision requirements
 - **NJ Advertising Regulations**: Required disclosures and prohibitions
 - **Trust Fund Handling**: Escrow account management in NJ
 - **NJ Disciplinary Procedures**: Violations and penalties
 
-### Module 3: New Jersey Agency Law (20-25% of Exam) [module3](module3)
+### Module 3: New Jersey Agency Law (20-25% of Exam) [module3](module3) [module3-part2](module3-part2)
 - **NJ Agency Disclosure Requirements**: Timing and methods
 - **Single vs. Dual Agency**: NJ-specific rules and limitations
 - **Designated Agency**: How it works in New Jersey
 - **NJ Consumer Information Statement**: Mandatory disclosure form
 - **Fiduciary Duties**: Specific to NJ agency relationships
 
-### Module 4: Contracts & Disclosures (15-20% of Exam)  [module4](module4)
+### Module 4: Contracts & Disclosures (15-20% of Exam)  [module4](module4) [module4-part2](module4-part2)
 - **NJ Real Estate Contract Forms**: Standard forms and addenda
 - **Property Condition Disclosure Act**: Seller's obligations
 - **NJ Lead Paint Disclosure**: Federal and state requirements
@@ -50,7 +50,7 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 - **Megan's Law Disclosure**: Sex offender registry notice
 - **Radon Testing**: NJ requirements and procedures
 
-### Module 5: NJ-Specific Regulations & Property Rights  [module5](module5)
+### Module 5: NJ-Specific Regulations & Property Rights  [module5](module5) [module5-part2](module5-part2)
 - **NJ Municipal Land Use Law (MLUL)**: Zoning and planning boards
 - **Environmental Regulations**: CAFRA, Wetlands, Pinelands Protection
 - **NJ Property Tax System**: Assessments, appeals, homestead benefits
@@ -113,11 +113,23 @@ This module covers all **New Jersey-specific real estate laws** required for the
 
 
 ### [Part 1: New Jersey Real Estate Commission Rules](/NJ-Real-Estate-Exam-Prep.github.io/module1)
+### [Part 1 (Part 2): New Jersey Real Estate Commission Rules – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module1-part2)
+
 ### [Part 2: New Jersey Agency Law & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module2)
+### [Part 2 (Part 2): New Jersey Agency Law & Disclosures – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module2-part2)
+
 ### [Part 3: NJ Contracts & Forms](/NJ-Real-Estate-Exam-Prep.github.io/module3)
+### [Part 3 (Part 2): NJ Contracts & Forms – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module3-part2)
+
 ### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module4)
+### [Part 4 (Part 2): NJ Land Use & Environmental Law – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module4-part2)
+
 ### [Part 5: NJ Property Tax & Assessment](/NJ-Real-Estate-Exam-Prep.github.io/module5)
+### [Part 5 (Part 2): NJ Property Tax & Assessment – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module5-part2)
+
 ### [Part 6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module6/part6-exam-questions/)
+### [Part 6 (Part 2): Exam Questions & Practice – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module6/part6-exam-questions-part2/)
+
 ### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
 ### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
 ### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
