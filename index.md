@@ -22,27 +22,27 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 
 ## 📋 Course Modules
 
-### Module 1: New Jersey Real Estate License Fundamentals
+### Module 1: New Jersey Real Estate License Fundamentals [module1](module1)
 - **NJ Exam Structure**: Format, 110 questions, 150 minutes
 - **NJ Real Estate Commission (NJREC) Requirements**: Pre-licensing, application, fees
 - **Testing Accommodations**: PSI testing center accessibility options
 - **NJ Scoring System**: 75% passing score, question breakdown
 
-### Module 2: New Jersey License Law (25-30% of Exam)
+### Module 2: New Jersey License Law (25-30% of Exam) [module2](module2)
 - **NJ Real Estate License Act**: N.J.A.C. 11:5 rules and regulations
 - **Broker-Salesperson Relationships**: Supervision requirements
 - **NJ Advertising Regulations**: Required disclosures and prohibitions
 - **Trust Fund Handling**: Escrow account management in NJ
 - **NJ Disciplinary Procedures**: Violations and penalties
 
-### Module 3: New Jersey Agency Law (20-25% of Exam)
+### Module 3: New Jersey Agency Law (20-25% of Exam) [module3](module3)
 - **NJ Agency Disclosure Requirements**: Timing and methods
 - **Single vs. Dual Agency**: NJ-specific rules and limitations
 - **Designated Agency**: How it works in New Jersey
 - **NJ Consumer Information Statement**: Mandatory disclosure form
 - **Fiduciary Duties**: Specific to NJ agency relationships
 
-### Module 4: Contracts & Disclosures (15-20% of Exam)
+### Module 4: Contracts & Disclosures (15-20% of Exam)  [module4](module4)
 - **NJ Real Estate Contract Forms**: Standard forms and addenda
 - **Property Condition Disclosure Act**: Seller's obligations
 - **NJ Lead Paint Disclosure**: Federal and state requirements
@@ -50,7 +50,7 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 - **Megan's Law Disclosure**: Sex offender registry notice
 - **Radon Testing**: NJ requirements and procedures
 
-### Module 5: NJ-Specific Regulations & Property Rights
+### Module 5: NJ-Specific Regulations & Property Rights  [module5](module5)
 - **NJ Municipal Land Use Law (MLUL)**: Zoning and planning boards
 - **Environmental Regulations**: CAFRA, Wetlands, Pinelands Protection
 - **NJ Property Tax System**: Assessments, appeals, homestead benefits
