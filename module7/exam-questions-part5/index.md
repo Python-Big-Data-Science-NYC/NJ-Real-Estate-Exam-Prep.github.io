@@ -322,20 +322,9 @@ D. Split between parties
 
 ---
 
-## Resources for Mastering Hard Topics
-
-1. **NJ Real Estate Commission Decisions** - Read actual disciplinary cases
-2. **NJ State Bar Association Real Estate Section** - Advanced materials
-3. **"New Jersey Real Estate Law" by R. Kessler** - Detailed case law analysis
-4. **PSI Content Outline** - Identify most heavily weighted difficult areas
-
----
-
-*Remember: The hardest questions test not just knowledge, but judgment, ethics, and application of complex rules to realistic scenarios. Practice with these challenging questions will prepare you for the exam's most difficult sections.*
-
----
-
-**File:** `nj_real_estate_hard_topics_mastery.md`  
-**Target Audience:** Advanced exam preparers, retakers focusing on difficult areas  
-**Focus:** Complex scenarios, nuanced NJ law, advanced calculations  
-**Last Updated:** February 2026
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)

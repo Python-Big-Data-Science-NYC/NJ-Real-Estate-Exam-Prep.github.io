@@ -422,4 +422,9 @@ Conversion is intentional misuse; commingling is mixing funds without intent to 
 
 ---
 
-**End of 25 Most Challenging Questions**
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)

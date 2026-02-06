@@ -401,21 +401,12 @@ D. Estate for years
 
 ---
 
-## Study Tips
-
-1. **Review Commission Calculations**: Practice commission split calculations with different percentages and sale prices.
-2. **Understand Agency Relationships**: Know the differences between clients, customers, and fiduciary duties.
-3. **Memorize Key Definitions**: Terms like latent defect, alienation, condemnation, and usury laws frequently appear on exams.
-4. **Practice Prorations**: Learn what items are prorated at closing and whether credits go to buyer or seller.
-5. **Know NJ-Specific Laws**: New Jersey has unique requirements like attorney review periods and franchise advertising rules.
 
 ---
 
-*Disclaimer: This practice exam is for educational purposes only. Always refer to the latest New Jersey Real Estate Commission materials and laws for current licensing requirements.*
-
----
-
-**File:** `complete_nj_real_estate_exam_2026.md`
-**Total Questions:** 28 with explanations
-**Format:** Markdown (.md)
-**Last Updated:** February 2026
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)

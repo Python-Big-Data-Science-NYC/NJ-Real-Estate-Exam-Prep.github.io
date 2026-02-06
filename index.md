@@ -90,7 +90,7 @@ This module covers all **New Jersey-specific real estate laws** required for the
 - NJ-specific addenda and riders
 - Attorney review period in NJ
 
-### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module4
+### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module4)
 - Municipal Land Use Law (MLUL)
 - Zoning board procedures
 - NJ environmental regulations (CAFRA, Wetlands)

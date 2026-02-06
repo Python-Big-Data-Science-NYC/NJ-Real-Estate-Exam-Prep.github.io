@@ -1158,23 +1158,9 @@
 
 ---
 
-## Study Tips for These 100 Questions:
-
-1. **Create Flashcards** - One side: Question, Other side: Answer & Explanation
-2. **Focus on Math** - Practice calculations without calculator
-3. **Memorize NJ-Specifics** - Agency disclosure timing, transfer fees, etc.
-4. **Understand "Why"** - Don't just memorize answers, understand reasoning
-5. **Group Similar Questions** - Study by topic (finance, agency, contracts, etc.)
-6. **Time Yourself** - Simulate exam conditions
-7. **Review Wrong Answers** - Understand why other choices are incorrect
-8. **Use Mnemonics** - For lists and sequences
-9. **Practice Daily** - Consistency beats cramming
-10. **Take Breaks** - Study in 45-minute intervals
-
----
-
-**File:** `nj_real_estate_100_hard_questions.md`  
-**Format:** Markdown for easy import into study apps  
-**Topics Covered:** All major exam areas  
-**Difficulty:** Intermediate to Advanced  
-**Best For:** Final review and difficult topic mastery
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)
