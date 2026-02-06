@@ -1,3 +1,4 @@
+
 # Module 2: New Jersey License Law
 ## NJ Real Estate License Act, Regulations & Ethics
 

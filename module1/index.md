@@ -1,3 +1,9 @@
+---
+layout: default
+hide_sidebar: true
+hide_header: true
+---
+
 # Module 1: New Jersey Real Estate License Fundamentals
 ## NJ Exam Structure, Requirements & Procedures
 
@@ -6,6 +12,7 @@
 **Question 1**
  What is the passing score for the New Jersey real estate exam?
 **Answer Choices:**
+
 A. 70%
 B. 75%
 C. 80%
@@ -15,6 +22,7 @@ D. 85%
 **Question 2**
  How many questions are on the New Jersey real estate salesperson exam?
 **Answer Choices:**
+
 A. 80
 B. 100
 C. 110
@@ -24,6 +32,7 @@ D. 120
 **Question 3**
  How much time is allotted for the New Jersey real estate exam?
 **Answer Choices:**
+
 A. 120 minutes
 B. 150 minutes
 C. 180 minutes
@@ -33,6 +42,7 @@ D. 210 minutes
 **Question 4**
  What percentage of the NJ exam covers state-specific content?
 **Answer Choices:**
+
 A. 40%
 B. 50%
 C. 60%
@@ -42,6 +52,7 @@ D. 70%
 **Question 5**
  A real estate industry member of the New Jersey Real Estate Commission must have been a:
 **Answer Choices:**
+
 A. broker for at least 5 years
 B. broker or salesperson for at least 5 years
 C. broker for at least 10 years
