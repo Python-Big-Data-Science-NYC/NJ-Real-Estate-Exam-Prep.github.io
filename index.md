@@ -72,31 +72,31 @@ This module covers all **New Jersey-specific real estate laws** required for the
 
 ## **📚 Module Parts**
 
-### [Part 1: New Jersey Real Estate Commission Rules](/NJ-Real-Estate-Exam-Prep.github.io/module5/part1-njrec-rules/)
+### [Part 1: New Jersey Real Estate Commission Rules](/NJ-Real-Estate-Exam-Prep.github.io/module1)
 - N.J.A.C. 11:5 complete overview
 - License categories and requirements
 - Continuing education requirements
 - Commission disciplinary authority
 
-### [Part 2: New Jersey Agency Law & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module5/part2-nj-agency/)
+### [Part 2: New Jersey Agency Law & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module2)
 - NJ Agency relationships
 - Mandatory disclosure timing
 - Consumer Information Statement walkthrough
 - NJ-specific agency case law
 
-### [Part 3: NJ Contracts & Forms](/NJ-Real-Estate-Exam-Prep.github.io/module5/part3-nj-contracts/)
+### [Part 3: NJ Contracts & Forms](/NJ-Real-Estate-Exam-Prep.github.io/module3)
 - Standard NJ real estate contract
 - Property condition disclosure statement
 - NJ-specific addenda and riders
 - Attorney review period in NJ
 
-### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module5/part4-nj-land-use/)
+### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module4
 - Municipal Land Use Law (MLUL)
 - Zoning board procedures
 - NJ environmental regulations (CAFRA, Wetlands)
 - Pinelands Protection Act
 
-### [Part 5: NJ Property Tax & Assessment](/NJ-Real-Estate-Exam-Prep.github.io/module5/part5-nj-tax/)
+### [Part 5: NJ Property Tax & Assessment](/NJ-Real-Estate-Exam-Prep.github.io/module5)
 - NJ property tax assessment system
 - Tax appeal process
 - Homestead benefits and rebates
@@ -107,6 +107,15 @@ This module covers all **New Jersey-specific real estate laws** required for the
 - Answer explanations with NJ law citations
 - Memory aids for NJ regulations
 - Decision trees for complex scenarios
+
+
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)
+
 
 ## **🎯 Key Learning Objectives**
 
