@@ -255,3 +255,7 @@ D. Novation
 ### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
 ### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
 ### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)
+
+
+### [Part 7.7: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part7)
+### [Part 7.8: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part8)
