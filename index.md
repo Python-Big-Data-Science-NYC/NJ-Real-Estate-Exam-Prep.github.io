@@ -22,6 +22,8 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 
 ## 📋 Course Modules
 
+[tenancy](tenancy)
+
 ### Module 1: New Jersey Real Estate License Fundamentals [module1](module1) [module1-part2](module1-part2)
 - **NJ Exam Structure**: Format, 110 questions, 150 minutes
 - **NJ Real Estate Commission (NJREC) Requirements**: Pre-licensing, application, fees
@@ -138,6 +140,10 @@ This module covers all **New Jersey-specific real estate laws** required for the
 ### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)
 ### [Part 7.7: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part7)
 ### [Part 7.8: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part8)
+
+##[tenancy](tenancy)
+
+
 ## **🎯 Key Learning Objectives**
 
 By completing this module, you will:
@@ -230,68 +236,7 @@ The NJREC has power to:
 
 ---
 
-## 📝 Exam Day Preparation
 
-### Before the Exam
-- **Confirm Testing Accommodations**: Verify your accessibility needs with PSI
-- **Prepare Required Documentation**: Two forms of ID, confirmation number
-- **Practice with PSI Interface**: Familiarize yourself with testing software
-- **Accessibility Equipment Check**: Test any personal assistive devices
-
-### During the Exam
-- **Time Management Strategies**: 110 questions in 150 minutes
-- **Question Navigation Tips**: Flagging, reviewing, and changing answers
-- **Accessibility Features**: How to use built-in test accommodations
-- **Breaks and Timing**: Scheduled and unscheduled break policies
-
-### After the Exam
-- **Score Reporting**: Immediate results at testing center
-- **Retake Policies**: Waiting period and fees
-- **Next Steps**: License application process with NJREC
-- **Continuing Education**: NJ mandatory continuing education requirements
-
----
-
-## 📱 Accessible Learning Tools
-
-### Screen Reader Optimized Resources
-- **NVDA-Compatible Materials**: Tested with popular free screen readers
-- **JAWS Optimized Content**: Structured for professional screen reader software
-- **VoiceOver Ready**: iOS and macOS compatibility
-- **TalkBack Supported**: Android accessibility features
-
-### Alternative Format Availability
-- **Plain Text Versions**: All content available in .txt format
-- **Audio Recordings**: Podcast-style lesson recordings
-- **DAISY Format**: Digital accessible information system files
-- **EPUB 3**: Accessible ebook format with full navigation
-
-### NJ-Specific Resources
-- **NJ Statute Audio Files**: N.J.A.C. 11:5 in audio format
-- **NJ Form Walkthroughs**: Audio descriptions of required forms
-- **County Regulation Summaries**: Accessible county-by-county guides
-
----
-
-## 🔗 Additional Resources
-
-### Official New Jersey Resources
-- [NJ Real Estate Commission](https://www.nj.gov/dobi/division_cons/realestate.shtml) - Official licensing authority
-- [NJ Department of Community Affairs](https://www.nj.gov/dca/) - Building codes and regulations
-- [PSI New Jersey Testing](https://www.psiexams.com/real-estate/new-jersey) - Exam provider
-- [NJ Statutes and Regulations](https://www.njleg.state.nj.us/) - Official laws
-
-### New Jersey Professional Organizations
-- [NJ Association of Realtors](https://www.njar.com/) - State Realtor association
-- [GSMLS](https://www.gsmls.com/) - Garden State Multiple Listing Service
-- [MLS of Northern NJ](https://www.mlsli.com/) - Multiple listing service
-
-### Accessibility Resources
-- [NJ Division of Disability Services](https://www.state.nj.us/humanservices/dds/)
-- [PSI Accommodations](https://www.psiexams.com/accessibility-services) - Testing accommodations
-- [NJ State Library Talking Book Center](https://www.njstatelib.org/talking-book-and-braille-center/)
-
----
 
 ## 📊 Practice Question Examples
 
