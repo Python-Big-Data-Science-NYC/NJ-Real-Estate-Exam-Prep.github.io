@@ -11,7 +11,7 @@ github:
   is_user_page: false
 
 # Theme
-theme: jekyll-theme-cayman
+theme: jekyll-theme-modernist
 
 # Author Information
 author:
