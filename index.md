@@ -23,6 +23,7 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 ## 📋 Course Modules
 
 [tenancy](tenancy)
+##[easement](easement)
 
 ### Module 1: New Jersey Real Estate License Fundamentals [module1](module1) [module1-part2](module1-part2)
 - **NJ Exam Structure**: Format, 110 questions, 150 minutes
@@ -142,7 +143,7 @@ This module covers all **New Jersey-specific real estate laws** required for the
 ### [Part 7.8: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part8)
 
 ##[tenancy](tenancy)
-
+##[easement](easement)
 
 ## **🎯 Key Learning Objectives**
 
