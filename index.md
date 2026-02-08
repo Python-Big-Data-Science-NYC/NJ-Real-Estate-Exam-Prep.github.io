@@ -22,8 +22,6 @@ Welcome to the **open-access New Jersey Real Estate License Preparation Course**
 
 ## 📋 Course Modules
 
-[tenancy](tenancy)
-##[easement](easement)
 
 ### Module 1: New Jersey Real Estate License Fundamentals [module1](module1) [module1-part2](module1-part2)
 - **NJ Exam Structure**: Format, 110 questions, 150 minutes
@@ -156,13 +154,6 @@ By completing this module, you will:
 - **Flood zone designations** in coastal areas
 - **NJ-specific closing procedures** and costs
 
-## **🕐 Study Time Recommendation**
-- **Total module time**: 5-7 hours
-- **Reading time**: 3-4 hours
-- **Practice questions**: 1-2 hours
-- **Review and memory**: 1 hour
-
-## **📖 How to Study This Module**
 
 ### For Screen Reader Users:
 1. Start with Part 1 and proceed sequentially
@@ -177,15 +168,13 @@ By completing this module, you will:
 4. Create county-specific reference charts
 
 ## **🔗 Navigation**
-- **Previous Module**: [Module 4: Contracts & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module4/)
-- **Next Practice**: [Module 5 Practice Questions](/NJ-Real-Estate-Exam-Prep.github.io/practice/module5/)
-- **Return to**: [Course Home](/)
+[Module 4: Contracts & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module4/)
+[Module 5 Practice Questions](/NJ-Real-Estate-Exam-Prep.github.io/practice/module5/)
+- **Return to**: [Course Home](/NJ-Real-Estate-Exam-Prep.github.io/)
 
 ---
 
 **Module Difficulty Level**: Advanced ⭐⭐⭐⭐  
-**Exam Weight**: Approximately 30-35% of total questions  
-**Last Updated**: January 2026  
 **Accessibility Status**: WCAG 2.1 AA Compliant ✅
 
 ## 🎯 Study Strategies for Success
