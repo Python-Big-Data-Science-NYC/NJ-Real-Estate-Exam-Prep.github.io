@@ -465,25 +465,28 @@ D) Split loss 50/50
 
 ---
 
-## **Answer Key Analysis Patterns:**
-
-### **Common Themes in Correct Answers:**
-1. **When in doubt, disclose more** - NJ favors full disclosure
-2. **Written agreements protect everyone** - oral agreements are riskier
-3. **Material facts are broadly defined** - anything affecting value or desirability
-4. **Agency relationships require formalization** - CIS first, then agreements
-5. **Commission disputes favor written agreements** - MLS offers create binding contracts
-
-### **Study Tips for Complex Reasoning Questions:**
-1. **Look for the "ethical high ground"** - choose the most transparent option
-2. **Consider all parties' interests** - not just the licensee's
-3. **Remember NJ-specific requirements** - CIS, Megan's Law, etc.
-4. **When laws conflict** - specific usually beats general, statutes beat policies
-5. **Documentation is key** - when unsure, choose the option that creates the best record
-
-### **Test Strategy:**
-1. Read each scenario twice
-2. Identify all ethical/legal issues
-3. Eliminate clearly wrong answers first
-4. Choose the most protective/transparent option
-5. Watch for NJ-specific requirements
+### [Part 1: New Jersey Real Estate Commission Rules](/NJ-Real-Estate-Exam-Prep.github.io/module1)
+### [Part 1 (Part 2): New Jersey Real Estate Commission Rules – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module1-part2)
+### [Part 2: New Jersey Agency Law & Disclosures](/NJ-Real-Estate-Exam-Prep.github.io/module2)
+### [Part 2 (Part 2): New Jersey Agency Law & Disclosures – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module2-part2)
+### [Part 3: NJ Contracts & Forms](/NJ-Real-Estate-Exam-Prep.github.io/module3)
+### [Part 3 (Part 2): NJ Contracts & Forms – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module3-part2)
+### [Part 4: NJ Land Use & Environmental Law](/NJ-Real-Estate-Exam-Prep.github.io/module4)
+### [Part 4 (Part 2): NJ Land Use & Environmental Law – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module4-part2)
+### [Part 5: NJ Property Tax & Assessment](/NJ-Real-Estate-Exam-Prep.github.io/module5)
+### [Part 5 (Part 2): NJ Property Tax & Assessment – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module5-part2)
+### [Part 6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module6/part6-exam-questions/)
+### [Part 6 (Part 2): Exam Questions & Practice – Continued](/NJ-Real-Estate-Exam-Prep.github.io/module6/part6-exam-questions-part2/)
+### [Part 7.1: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part1)
+### [Part 7.2: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part2)
+### [Part 7.3: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part3)
+### [Part 7.4: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part4)
+### [Part 7.5: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part5)
+### [Part 7.6: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part6)
+### [Part 7.7: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part7)
+### [Part 7.8: Exam Questions & Practice](/NJ-Real-Estate-Exam-Prep.github.io/module7/exam-questions-part8)
+##[tenancy](tenancy)
+##[easement](easement)
+##[ownership](ownership)
+##[describing](describing)
+##[Home](/NJ-Real-Estate-Exam-Prep.github.io)
